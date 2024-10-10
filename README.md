@@ -1,6 +1,6 @@
 # sustainable-high-quality-wikis
 
-This repository contains the code that supports the academic paper titles as *"A Test of Time: Predicting the Sustainable Success of Online Collaboration in Wikipedia"*
+This repository contains the code that supports the academic paper titled as *"A Test of Time: Predicting the Sustainable Success of Online Collaboration in Wikipedia"*
 
 The paper is currently under review and hence publish under an anonymous GitHub repositoy. Citations to the publihsed paper would be shared here in the future.
 
