@@ -14,7 +14,7 @@ pd.set_option('display.width', 1000)
 
 # general configuration parameters
 base_model_version = 20.2
-new_model_version = -1
+new_model_version = -2
 target_column = 'is_sustainable_conservative_approach'#is_sustainable' # 'is_sustainable_conservative_approach'
 debug_mode = True
 base_folder = '/shared/3/projects/relationship-aware-networks-wikipedia'
