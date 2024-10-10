@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8116582d-dcdb-482d-94a0-2ab3946f4082" name="sushi_gpu">
+        <fileTransfer rootFolder="/home/isabrah" accessType="SFTP" host="sushi.si.umich.edu" port="22" sshConfigId="fc85af73-a566-4fd4-8a0a-582f47d806eb" sshConfig="isabrah@sushi.si.umich.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f7bea7ce-032f-4223-a615-4239f0632ab9" name="curry_sustainable_high_quality_wikis_python_3_11">
+        <fileTransfer rootFolder="/home/isabrah" accessType="SFTP" host="curry.si.umich.edu" port="22" sshConfigId="17f4e402-802f-410a-938b-a3ebc486aa3e" sshConfig="isabrah@curry.si.umich.edu:22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
