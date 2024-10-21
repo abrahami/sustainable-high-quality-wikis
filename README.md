@@ -24,5 +24,5 @@ We use different data sources for this research:
 | Edit History     | 7                | meta_and_editing_structural_features_extractor | The Was-a-Good-Article feature is imported in a different code           |
 | user Experience  | 4                | user_level_generate_modeling_features.py       | The 'user_level_generate_credit_features.py' code has to run first       |
 
-We are aware that reproducing the exact same features we created for modeling is complicated. We have wish to highligh the following:
-1. 
+We are aware that reproducing the exact same features we created for modeling is complicated. Hence, we wish to highlight the following:
+* 
