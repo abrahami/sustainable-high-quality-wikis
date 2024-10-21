@@ -25,4 +25,5 @@ We use different data sources for this research:
 | user Experience  | 4                | user_level_generate_modeling_features.py       | The 'user_level_generate_credit_features.py' code has to run first       |
 
 We are aware that reproducing the exact same features we created for modeling is complicated. Hence, we wish to highlight the following:
-* 
+
+* We share the modeling data frames we use in their final format. See under the 'data' folder.
