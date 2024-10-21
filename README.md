@@ -10,7 +10,7 @@ A citation to the preprint manuscript will be shared here in soon.
 </div>
 
 
-The abstract of the paper is as follows:<br/>
+<br>The abstract of the paper is as follows:<br/>
 >The Internet has significantly expanded the potential for global collaboration, allowing millions of users to contribute to collective projects like Wikipedia. While prior work has assessed the success of online >collaborations, most approaches are time-agnostic, evaluating success without considering its longevity.
 >Research on the factors that ensure the long-term preservation of high-quality standards in online collaboration is scarce.
 >In this study, we address this gap. We propose a novel metric, ‘Sustainable Success’, which measures the ability of collaborative efforts to maintain their quality over time.
