@@ -26,4 +26,8 @@ We use different data sources for this research:
 
 We are aware that reproducing the exact same features we created for modeling is complicated. Hence, we wish to highlight the following:
 
-* We share the modeling data frames we use in their final format (for both `FA` and `GA` use-cases tested). See under the 'data' folder.
+* We share the modeling data frames we use in their final format (for both `FA` and `GA` use cases tested). See under the 'data' folder.
+* We use the Wikipeida dump files while processing the data and creating features.
+* We also use the talk pages for data creation.
+* Per Wikipedia articles, we create a Python object that contains a lot of the information about it. The creation process code is in the `article_assessment_objects_creation.py` file.
+* For further questions and comments, please don't hesitate to contact us over email (isabrah@umich.edu, Abraham).
