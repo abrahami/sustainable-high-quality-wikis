@@ -26,4 +26,4 @@ We use different data sources for this research:
 
 We are aware that reproducing the exact same features we created for modeling is complicated. Hence, we wish to highlight the following:
 
-* We share the modeling data frames we use in their final format. See under the 'data' folder.
+* We share the modeling data frames we use in their final format (for both `FA' and `GA' use-cases tested). See under the 'data' folder.
