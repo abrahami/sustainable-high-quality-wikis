@@ -14,11 +14,11 @@ The abstract of the paper is as follows:<br/>
 
 We use different data sources for this research:
 
-| Feature Set      | Num. of Features | Main File/Function                             | Comments       |
-|------------------|------------------|------------------------------------------------|----------------|
-| Network          | 27               | extract_structural_features                    | Row 1, Cell 4  |
-| Topics           | 247              | topic_per_article.py                           | Row 2, Cell 4  |
-| Team Composition | 5                | meta_and_editing_structural_features_extractor | Row 3, Cell 4  |
-| Discussions      | 36               | discussions_features_extractor                 | Row 4, Cell 4  |
-| Edit History     | 7                | meta_and_editing_structural_features_extractor | Row 5, Cell 4  |
-| user Experience  | 4                | user_level_generate_modeling_features.py       | Row 6, Cell 4  |
+| Feature Set      | Num. of Features | Main File/Function                             | Comments                                                                 |
+|------------------|------------------|------------------------------------------------|--------------------------------------------------------------------------|
+| Network          | 27               | extract_structural_features                    |                                                                          |
+| Topics           | 247              | topic_per_article.py                           | Talk pages content has to be first downloaded                            |
+| Team Composition | 5                | meta_and_editing_structural_features_extractor | Row 3, Cell 4                                                            |
+| Discussions      | 36               | discussions_features_extractor                 | DL predictions are created using the 'talkpages_text_prediction.py' code |
+| Edit History     | 7                | meta_and_editing_structural_features_extractor | The Was-a-Good-Article feature is imported in a different code           |
+| user Experience  | 4                | user_level_generate_modeling_features.py       | The 'user_level_generate_credit_features.py' code has to run first       |
