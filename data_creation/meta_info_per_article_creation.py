@@ -4,7 +4,7 @@ import glob
 from os.path import join as opj
 import requests
 
-def login_to_wikipedia(username='Avrahami-isr', password='Givemeusap2'):
+def login_to_wikipedia(username='Avrahami-isr', password='****'):
     session = requests.Session()
     url = "https://en.wikipedia.org/w/api.php"
 
