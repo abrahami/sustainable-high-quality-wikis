@@ -1,12 +1,11 @@
 # sustainable-high-quality-wikis
 
 This repository contains the code that supports the academic paper titled **"A Test of Time: Predicting the Sustainable Success of Online Collaboration in Wikipedia."**
+The paper is currently under review. A citation to the preprint manuscript will be shared here in soon.
 
 <div align="center">
   <img src="article_lifecycle_example_for_latex.jpg" alt="Article life-cycle example" width="600"/>
 </div>
-
-The paper is currently under review. A citation to the preprint manuscript will be shared here in soon.
 
 The abstract of the paper is as follows:<br/>
 >The Internet has significantly expanded the potential for global collaboration, allowing millions of users to contribute to collective projects like Wikipedia. While prior work has assessed the success of online >collaborations, most approaches are time-agnostic, evaluating success without considering its longevity.
