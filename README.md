@@ -12,6 +12,7 @@ The abstract of the paper is as follows:<br/>
 >Using this dataset, we develop machine learning models to predict the sustainable success of Wikipedia articles.
 >Our best-performing model achieves a high AU-ROC score of 0.88 on average. Our analysis reveals important insights. For example, we find that the longer an article takes to be recognized as high-quality, the more likely >it is to maintain that status over time (i.e., be sustainable). Additionally, user experience emerged as the most critical predictor of sustainability. Our analysis provides insights into broader collective actions beyond >Wikipedia (e.g., online activism, crowdsourced open-source software), where the same social dynamics that drive success on Wikipedia might play a role. We make all data and code used for this study publicly available for >further research.
 
+## Data
 We use different data sources for this research:
 
 | Feature Set      | Num. of Features | Main File/Function                             | Comments                                                                 |
