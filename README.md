@@ -14,12 +14,11 @@ The abstract of the paper is as follows:<br/>
 
 We use different data sources for this research:
 
-| Column 1       | Column 2      | Column 3       | Column 4       |
-|----------------|---------------|----------------|----------------|
-| Row 1, Cell 1  | Row 1, Cell 2 | Row 1, Cell 3  | Row 1, Cell 4  |
-| Row 2, Cell 1  | Row 2, Cell 2 | Row 2, Cell 3  | Row 2, Cell 4  |
-| Row 3, Cell 1  | Row 3, Cell 2 | Row 3, Cell 3  | Row 3, Cell 4  |
-| Row 4, Cell 1  | Row 4, Cell 2 | Row 4, Cell 3  | Row 4, Cell 4  |
-| Row 5, Cell 1  | Row 5, Cell 2 | Row 5, Cell 3  | Row 5, Cell 4  |
-| Row 6, Cell 1  | Row 6, Cell 2 | Row 6, Cell 3  | Row 6, Cell 4  |
-| Row 7, Cell 1  | Row 7, Cell 2 | Row 7, Cell 3  | Row 7, Cell 4  |
+| Feature Set      | Num. of Features | Main File/Function                             | Comments       |
+|------------------|------------------|------------------------------------------------|----------------|
+| Network          | 27               | extract_structural_features                    | Row 1, Cell 4  |
+| Topics           | 247              | topic_per_article.py                           | Row 2, Cell 4  |
+| Team Composition | 5                | meta_and_editing_structural_features_extractor | Row 3, Cell 4  |
+| Discussions      | 36               | discussions_features_extractor                 | Row 4, Cell 4  |
+| Edit History     | 7                | meta_and_editing_structural_features_extractor | Row 5, Cell 4  |
+| user Experience  | 4                | user_level_generate_modeling_features.py       | Row 6, Cell 4  |
