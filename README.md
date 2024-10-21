@@ -2,7 +2,7 @@
 
 This repository contains the code that supports the academic paper titled **"A Test of Time: Predicting the Sustainable Success of Online Collaboration in Wikipedia."**
 
-![Example Image](article_lifecycle_example_for_latex.pdf)
+![Example Image](article_lifecycle_example_for_latex.jpg)
 
 The paper is currently under review. A citation to the preprint manuscript will be shared here in soon.
 
